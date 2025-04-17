@@ -1,0 +1,14 @@
+{
+    "project1": {
+        "title": "Streank - Landing Page",
+        "description": "Platform for lead generation, targeting both Viewers and Streamers"
+    },
+    "project2": {
+        "title": "Digital Clock",
+        "description": "Website displaying real-time clock by fetching the machine's local time"
+    },
+    "soon": {
+        "title": "Coming Soon",
+        "description": "Space reserved for the next project"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "project1": {
+        "title": "Streank - Página de Destino",
+        "description": "Plataforma para captación de leads, dirigida a Espectadores y Streamers"
+    },
+    "project2": {
+        "title": "Reloj Digital",
+        "description": "Sitio web que muestra la hora en tiempo real utilizando el horario local de la máquina"
+    },
+    "soon": {
+        "title": "Próximamente",
+        "description": "Espacio reservado para el próximo proyecto"
+    }
+}

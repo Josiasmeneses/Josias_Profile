@@ -1,0 +1,32 @@
+{
+    "title": "Josias M Portfolio",
+    "menu": {
+        "home": "Home",
+        "about": "About",
+        "experiences": "Experiences",
+        "contact": "Contact"
+    },
+    "profile": {
+        "name": "Josias Meneses",
+        "title": "Full-Stack Developer",
+        "description": "Talented and experienced Full-Stack Developer, specialized in creating impressive and functional web interfaces."
+    },
+    "academic": {
+        "title": "Academic Background",
+        "course": "Systems Analysis and Development",
+        "university": "Paulista University of Brasília"
+    },
+    "sections": {
+        "about": "About",
+        "skills": "Skills and Knowledge",
+        "experiences": "Experiences",
+        "contact": "Contacts"
+    },
+    "contact": {
+        "name": "Josias Meneses",
+        "location": "Brasilia - DF, Brazil"
+    },
+    "footer": {
+        "copyright": "©All image rights reserved to Josias Meneses"
+    }
+}

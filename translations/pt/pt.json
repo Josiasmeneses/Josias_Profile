@@ -1,0 +1,32 @@
+{
+    "title": "Portfólio Josias M",
+    "menu": {
+        "home": "Início",
+        "about": "Sobre",
+        "experiences": "Experiências",
+        "contact": "Contato"
+    },
+    "profile": {
+        "name": "Josias Meneses",
+        "title": "Desenvolvedor Full-Stack",
+        "description": "Desenvolvedor Full-Stack talentoso e experiente, especializado na criação de interfaces web impressionantes e funcionais."
+    },
+    "academic": {
+        "title": "Formação Acadêmica",
+        "course": "Análise e Desenvolvimento de Sistemas",
+        "university": "Universidade Paulista de Brasília"
+    },
+    "sections": {
+        "about": "Sobre",
+        "skills": "Habilidades e Conhecimentos",
+        "experiences": "Experiências",
+        "contact": "Contatos"
+    },
+    "contact": {
+        "name": "Josias Meneses",
+        "location": "Brasilia - DF"
+    },
+    "footer": {
+        "copyright": "©Direitos de imagem reservados para Josias Meneses"
+    }
+}

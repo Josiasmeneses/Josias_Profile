@@ -1,0 +1,26 @@
+{
+    "project1": {
+        "id":"card-1",
+        "title": "Streank-Landing Page",
+        "description": "Plataforma para recepção de leads sendo eles Viewers ou Streamers",
+        "tag":["HTML","CSS3","JavaScript","WordPress"]
+    },
+    "project2": {
+        "id":"card-2",
+        "title": "STK-Event",
+        "description": "Tela recepção para Eventos",
+        "tag":["React.js","StyleComponents","TypeScript"]
+    },
+    "project3": {
+        "id":"card-3",
+        "title": "Relógio Digital",
+        "description": "Site onde pode-se observar as horas em tempo real onde ele busca na máquina o horário utilizado",
+        "tag":["HTML","CSS3","JavaScript"]
+    },
+    "soon": {
+        "id":"card-3",
+        "title": "Em Breve",
+        "description": "Espaço reservado para próximo projeto",
+        "tag":[]
+    }
+}
